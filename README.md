@@ -7,17 +7,17 @@
 <details>
   <summary>More</summary>
   <br>
-  I have used <mark>aes256</mark> for this script, but you can change it as you please (Read the openssl man page if you don't like it)  
+  I have used <b>aes256</b> for this script, but you can change it as you please (Read the openssl man page if you don't like it)  
   <br>
-for ```-iter``` i used 123 as example, but you don't need to use if if you don't want, you can omit the ```ITER``` flag in the script  
+  for <b>-iter</b> i used <b>123</b> as example, but you don't need to use if if you don't want, you can omit the <b>ITER</b> flag in the script  
   <br>
-the ITER flag will ask for the number you have set (idk if it can only be a number)  
+  the <b>ITER</b> flag will ask for the number you have set (idk if it can only be a number)  
   <br>
-the PASS flag will ask for the **Password** of the file  
+  the <b>PASS</b> flag will ask for the <b>Password</b> of the file  
   <br>
 i don't know yet how to make wofi specify it in the title  
   <br>
-you can remove the --password flag if you don't really care about it
+you can remove the <b>--password</b> flag if you don't really care about it
   </details>
 
 **2** - Run the Script
