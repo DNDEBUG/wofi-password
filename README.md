@@ -21,5 +21,5 @@ so your password file should look something like this
 Login: USER_NAME  
 Password: 12345  
 
-This script is very simple and can be ported to anything lol
+This script is very simple and can be ported to anything lol  
 If i could actually program i would do better
