@@ -13,7 +13,7 @@ i don't know yet how to make wofi specify it in the title
 you can remove the --password flag if you don't really care about it
 
 **The Password**  
-AWK outputs the second column to wl-copy  
+AWK outputs the second column to wl-copy (Yes if uses awk)  
 so your password file should look something like this  
 
 Login: USER_NAME  
