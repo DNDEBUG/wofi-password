@@ -33,8 +33,3 @@ Password: 12345
 
 This script is very simple and can be ported to anything lol  
 If i could actually program i would do better
-
-**HELP ME BUY A NEW HARD DRIVE**
-
-monero:892MhVb6bJNDwvuhQNJBWtLfaXBH2FjbGdzcKJvesE6B8LpfyASmJf836pPjE3uKJL6LPz1611xP1ZMxjs5RVJg1TN12uBh  
-![98880063](https://user-images.githubusercontent.com/98880063/170874778-6107c37d-ae4d-4f8f-9895-31e4ff3eba85.png)
