@@ -7,7 +7,7 @@
 <details>
   <summary>More</summary>
   <br>
-  I have used <pre>aes256</pre> for this script, but you can change it as you please (Read the openssl man page if you don't like it)  
+  I have used <pre>$ aes256</pre> for this script, but you can change it as you please (Read the openssl man page if you don't like it)  
   <br>
 for ```-iter``` i used 123 as example, but you don't need to use if if you don't want, you can omit the ```ITER``` flag in the script  
   <br>
