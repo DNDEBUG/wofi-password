@@ -11,7 +11,7 @@
   <br>
   for <b>-iter</b> i used <b>123</b> as example, but you don't need to use if if you don't want, you can omit the <b>ITER</b> flag in the script  
   <br>
-  the <b>ITER</b> flag will ask for the number you have set (idk if it can only be a number)  
+  the <b>ITER</b> flag will ask for the number you have set  
   <br>
   the <b>PASS</b> flag will ask for the <b>Password</b> of the file  
   <br>
