@@ -23,7 +23,7 @@ you can remove the <b>--password</b> flag if you don't really care about it
 **2** - Run the Script
 
 **The Password**  
-AWK outputs the second column to wl-copy (Yes if uses awk)  
+AWK outputs the second column to wl-copy (Yes it uses awk, one day i will learn regex)  
 so your password file should look something like this  
 
 Login: USER_NAME  
