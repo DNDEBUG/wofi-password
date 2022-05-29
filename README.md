@@ -18,3 +18,5 @@ Login: USER_NAME
 Password: 12345  
 
 If i could actually program i would do better
+
+This script is very simple and can be ported to anything lol
