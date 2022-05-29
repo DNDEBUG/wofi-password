@@ -12,8 +12,11 @@ I have used aes256 for this script, but you can change it as you please (Read th
 for ```-iter``` i used 123 as example, but you don't need to use if if you don't want, you can omit the ```ITER``` flag in the script  
   <br>
 the ITER flag will ask for the number you have set (idk if it can only be a number)  
-the PASS flag will ask for the **Password** of the file
+  <br>
+the PASS flag will ask for the **Password** of the file  
+  <br>
 i don't know yet how to make wofi specify it in the title  
+  <br>
 you can remove the --password flag if you don't really care about it
   </details>
 
