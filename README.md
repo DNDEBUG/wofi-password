@@ -1,7 +1,7 @@
 # **Simple Script to manage OpenSSL encrypted password**  
 **Wofi** is quite crappy when you try to pipe stuff from and to **Wofi**  
   
-How to create the password file  
+**1** - How to create the password file  
   
 ```openssl aes256 -iter 123 -in pass.txt -out "pass_file_name_here.osl"```  
 
@@ -11,6 +11,8 @@ the ITER flag will ask for the number you have set (idk if it can only be a numb
 the PASS flag will ask for the **Password** of the file
 i don't know yet how to make wofi specify it in the title  
 you can remove the --password flag if you don't really care about it
+
+**2** - Run the Script
 
 **The Password**  
 AWK outputs the second column to wl-copy (Yes if uses awk)  
