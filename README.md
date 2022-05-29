@@ -15,7 +15,7 @@
   <br>
   the <b>PASS</b> flag will ask for the <b>Password</b> of the file  
   <br>
-i don't know yet how to make wofi specify it in the title  
+  i don't know yet how to make wofi specify it in the title without using <b>--normal-window</b>
   <br>
 you can remove the <b>--password</b> flag if you don't really care about it
   <br>
