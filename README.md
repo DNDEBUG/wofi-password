@@ -32,7 +32,7 @@ Password: 12345
 This script is very simple and can be ported to anything lol  
 If i could actually program i would do better
 
-**HELP I'M POOR**
+**HELP ME, I'M POOR**
 
-monero:892MhVb6bJNDwvuhQNJBWtLfaXBH2FjbGdzcKJvesE6B8LpfyASmJf836pPjE3uK
+monero:892MhVb6bJNDwvuhQNJBWtLfaXBH2FjbGdzcKJvesE6B8LpfyASmJf836pPjE3uK  
 ![98880063](https://user-images.githubusercontent.com/98880063/170874778-6107c37d-ae4d-4f8f-9895-31e4ff3eba85.png)
