@@ -1,4 +1,4 @@
-**Simple Script to manage OpenSSL encrypted password**  
+# **Simple Script to manage OpenSSL encrypted password**  
 **Wofi** is quite crappy when you try to pipe stuff from and to **Wofi**  
   
 How to create the password file  
