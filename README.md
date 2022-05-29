@@ -18,6 +18,8 @@
 i don't know yet how to make wofi specify it in the title  
   <br>
 you can remove the <b>--password</b> flag if you don't really care about it
+  <br>
+  edit <b>PASSDIR</b> to point to the directory with your passwords
   </details>
 
 **2** - Run the Script
