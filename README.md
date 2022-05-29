@@ -4,7 +4,7 @@
 **1** - How to create the password file  
   
 ```openssl aes256 -iter 123 -in pass.txt -out "pass_file_name_here.osl"```  
-<details open>
+<details>
   <summary>More</summary>
   <br>
 I have used aes256 for this script, but you can change it as you please (Read the openssl man page if you don't like it)  
