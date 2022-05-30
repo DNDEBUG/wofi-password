@@ -3,15 +3,11 @@
   
 **1** - How to create the password file  
   
-```openssl aes256 -iter 123 -in pass.txt -out "pass_file_name_here.osl"```  
+```openssl aes256 -pbkdf2 -in pass.txt -out "pass_file_name_here.osl"```  
 <details>
   <summary>More</summary>
   <br>
   I have used <b>aes256</b> for this script, but you can change it as you please (Read the openssl man page if you don't like it)  
-  <br>
-  for <b>-iter</b> i used <b>123</b> as example, but you don't need to use if if you don't want, you can omit the <b>ITER</b> flag in the script  
-  <br>
-  the <b>ITER</b> flag will ask for the number you have set  
   <br>
   the <b>PASS</b> flag will ask for the <b>Password</b> of the file  
   <br>
